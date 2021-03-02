@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31019.35
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DragDrop_1_Simple", "DragDrop_1_Simple\DragDrop_1_Simple.csproj", "{F5135932-153F-46A7-9976-C60A7EFD8493}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DragDrop_2_Preview", "DragDrop_2_Preview\DragDrop_2_Preview.csproj", "{87BF862B-A665-45BE-BEF8-ED91CC38FABF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F5135932-153F-46A7-9976-C60A7EFD8493}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5135932-153F-46A7-9976-C60A7EFD8493}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5135932-153F-46A7-9976-C60A7EFD8493}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87BF862B-A665-45BE-BEF8-ED91CC38FABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87BF862B-A665-45BE-BEF8-ED91CC38FABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87BF862B-A665-45BE-BEF8-ED91CC38FABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87BF862B-A665-45BE-BEF8-ED91CC38FABF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
